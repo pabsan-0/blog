@@ -1,0 +1,42 @@
+site_name: Pablo Santana
+theme:
+  name: material
+  logo: logo.png
+  favicon: favicon.ico
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.path
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    # - navigation.tabs
+  # WARNING: either setting a palette OR not specifying it while 
+  # extra.css is active will break the search
+  palette:
+    primary: indigo
+
+# extra_css: [extra.css]
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pabsan-0
+      name: pabsan-0 on GitHub
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - def_list
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

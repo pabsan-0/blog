@@ -1,6 +1,10 @@
-# Cornos do demo
+---
+- date: 14/10/2024
+---
 
-Cornos do demo é unha vía de 4 longos na Cornus do Monte Galiñeiro, en Vigo.
+# Cornos do demo LRS
+
+Cornos do demo é unha vía IV+ de 4 longos na Cornus do Monte Galiñeiro, en Vigo. Esta entrada recolle un diario da súa ascensión en solitario o 14 de Outubro de 2024.
 
 ![gali](https://github.com/user-attachments/assets/18557a5c-e2fb-4234-bf30-1684cfa72a84)
 
@@ -73,7 +77,7 @@ que aparecen na guía dende unha perspectiva distinta da miña e identifico o
 primeiro longo. A primeira chapa está a unhos 3m de altura dende o chan, que
 está en notable pendiente e con pedras de bo tamaño. Tras poñer o arnés, 
 intento buscar unha que poida lazar coa cinta de 240cm para poñer un primeiro 
-seguro e evitar caídas de factor 2 sobre o primeiro anclaxe químico. Non dou 
+seguro e reducir a exposición mentres ate o primeiro anclaxe químico. Non dou 
 con nada que poida rodear coa cinta, pero sí atopo dous emplazamentos para os 
 fisureros máis grandes que teño. Coloco dous, esperando non precisar do 
 sacafisureros que non trouxen, e iguáloos cun nó do 9 e unha mariposa alpina. 
@@ -176,7 +180,7 @@ completamente oxidado moi vella escola. Escalando o largo tamén me fixei
 nalgúns cravos e chapas presumiblemente da mesma época. O cuarto longo
 comeza subindo o escalón vertical dunhos 3m onde se atopa a reu, e logo sigue
 por riba del, case perpendicular á súa arista. A primeira chapa sitúase pouco
-por debaixo dela, e planeo utilizar a reunión por redundancia e facer daj
+por debaixo dela, e planeo utilizar a reunión por redundancia e facer da
 primeira o meu anclaxe principal. Preparo o sistema e escalo, apoiándome
 nunhas repisas á dereita e coa triangulación da reu colgandera. Achántome e
 decido descalar, respirar e volver subir, posto que unha caída garante unhos
@@ -187,7 +191,7 @@ cargado lateralmente ao dirixir a cinta cara arriba. Avanzo case camiñando ata
 o seguinte punto, onde ato un ballestrinque holgado, e comezo a ascender en
 vertical por unha case-cheminea de pedras asentadas, ata o seguinte seguro,
 onde ato un novo ballestrinque para orientar a anterior cinta cara arriba.
-Continúo escalando e, varios seguros máis tarde, retiro a chapa áos meus pés 
+Continúo escalando e, varios seguros máis tarde, retiro a chapa aos meus pés 
 tras chapar de puntillas a seguinte para reducir o roce da corda. Chego arriba 
 experimentando algún atasco no Grigri debido ao espazo relativamente reducido 
 e ao roce do bucle cache coa roca. 
@@ -212,27 +216,28 @@ escoitara. Ao segundo intento entendémonos e dícenme que non, que van pola ví
 do lado. Recollo as cordas con calma e penso cómo baixar sin ter que lanzalas,
 para evitar que caian cerca do asegurador. Decido utilizar a funda da corda,
 aínda colgada do meu arnés para o mesmo propósito durante o rápel do cuarto
-longo. Meto unha metade da corda dentro, dóbroa, e sobre o pliego poño a outra
-metade. Chápoa ao arnés e vexo que, ao non haber verticalidade, a corda
+longo. Meto unha metade da corda dentro, dóbroa, e sobre o prego poño a outra
+metade. Chapo a funda ao arnés e vexo que, ao non haber verticalidade, a corda
 exterior roza no chan. Sin gana de leria, manteño a corda erguida coa man
-esquerda mentres a dereita fai o traballo de retroceder o Machard e alimentar o
-Reverso á unha vez.
+esquerda mentres a dereita fai o traballo das dúas, facendo retroceder o 
+Machard e alimentando o Reverso á vez.
 
 ![image](https://github.com/user-attachments/assets/1a6b9fc9-661b-456a-865b-2e359b79ce0c)
 
 
 Na segunda reunión decido tirar as cordas, aínda colgado. Vexo que chegan
-xusto enriba da repisa onde está a primeira reu, e opto por arriscarme contando 
-con que a elasticidade da corda co meu peso deixarame poñer os pés no chan,
-onde chego con ambos extremos da corda atascados polos seus nós de seguridade
-no meu prusik. 
+xusto enriba da repisa onde está a primeira reu e opto por arriscarme, contando 
+con que a elasticidade da corda co meu peso me vaia deixar poñer os pés no chan.
+Chego con ambos extremos da corda atascados nos seus nós de seguridade no Machard. 
+Átome á reunión e libero primeiro un e logo o outro, asegurándome de que a 
+elasticidade non me roube ambos cabos e me deixe tirado na parede.
 
-Átome a reunión, baixo a corda e rapelo o primeiro longo co Reverso en modo 
+Baixo a corda e rapelo o primeiro e último longo co Reverso en modo 
 velocidade. Nada máis chegar tócoo e, como esperaba, queima. Retíroo axiña da 
-corda e déixoo enfriar colgado do arnés. Para retirar a corda deste, alónxome 
+corda e déixoo enfriar colgado do arnés. Para retirar a corda do longo, alónxome 
 da parede para minimizar a fricción na repisa, e volvo acercame cando a corda 
 ascendente está a piques de chegar arriba para evitar ir recollendo un regueiro 
-de 15m de corda de entre as pedras. Dou un lixeiro tirón e a corda baixa e 
+de 15m de corda de entre pedras mexadas por cabras. Dou un lixeiro tirón e a corda baixa e 
 deposítase ordenada sobre a terra un metro á esquerda da súa funda. Recollo
 todo o material e devólvoo á mochila. Poño as botas que esquecín poñer antes e
 os meus pulgares descansan aliviados os 20 minutos que me boto recollendo e
