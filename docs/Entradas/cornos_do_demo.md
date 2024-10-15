@@ -1,29 +1,31 @@
 ---
-- date: 14/10/2024
+title: Cornos do demo LRS
+date: 14/10/2024
 ---
 
 # Cornos do demo LRS
 
-Cornos do demo é unha vía IV+ de 4 longos na Cornus do Monte Galiñeiro, en Vigo. Esta entrada recolle un diario da súa ascensión en solitario o 14 de Outubro de 2024.
+Cornos do demo é unha vía deportiva IV+ de 4 longos na Cornus do Monte Galiñeiro, en Vigo. 
+Esta entrada recolle un diario da súa ascensión en solitario o 14 de Outubro de 2024.
 
 ![gali](https://github.com/user-attachments/assets/18557a5c-e2fb-4234-bf30-1684cfa72a84)
 
 Xa escalei onte e síntome cansado, pero vendo o parte do tempo é probable
 que non volva ir bo por un par de semanas. Deiteime con idea de hoxe facer
-algo aproveitando que estou en Marín, e sin embargo esperto sin moitas ganas
+algo aproveitando que estou en Marín, e sen embargo esperto sen moitas ganas
 de facer esforzo algún. A miña rapaza tén unhos recados que facer pola
-mañá, o que nos interrumpe o remoloneo de primeira hora dun luns sin
+mañá, o que nos interrumpe o remoloneo de primeira hora dun luns sen
 traballar. Véxome vestido para as 8.30 e decido arrancar para o Galiñeiro
 para, no máis vago dos casos, dar un paseo por alí.
 
 Pouco antes de que a carretera me leve costa arriba cara a pedra, a autovía
 déixame no polígono homónimo ao Bar A Pasaxe, onde paro tomar un
-descafeinado e ollar uns croquis no teléfono sin ver moi claro qué facer.
+descafeinado e ollar uns croquis no teléfono sen ver moi claro qué facer.
 Non teño compañeiro de cordada para hoxe e as miñas posibilidades son
 limitadas. Teño algo de experiencia en solitario coa corda por riba (TRS),
-pero escalar de primeiro é algo que nunca fixen sin levar algun que me teña
+pero escalar de primeiro é algo que nunca fixen sen levar alguén que me teña
 un ollo enriba. Vou directamente á Cornus, un sector alto de placas con
-vías asequibles, situado á esquerda do collau principal que se divisa 
+vías asequibles situado á esquerda do collau principal que se divisa 
 dende o aparcadoiro, na procura dunha aventura estética.
 
 É entón que comeza a picarme o facer unha vía de varios longos, co sistema
@@ -100,14 +102,14 @@ exprés e no punto central monto un mosquetón de seguridade sobre o que
 fago un ballestrinque no lado da corda que baixa ata o chan. Un segundo 
 ballestrinque noutro mosquetón de seguro dame un segundo punto nun dos
 anclaxes fixos. Desacoplo o ASAP e xiro o Grigri para rapelar con el. Descendo
-pola liña que subín retirándo a corda das cintas pero sin recollelas. De non
+pola liña que subín retirándo a corda das cintas pero sen recollelas. De non
 ser a liña tan vertical estaría ben rechapalas para evitar péndulos, mais
 non é o caso. A boa práctica de deixalas na parede ata a subida aforra peso no
 arnés, principalmente, pero tamén axuda a atopar mellor a vía subindo por
 corda fixa se a non é completamente recta. Chego abaixo de puntillas para
 alonxarme o máximo posible da parede e minimizar o roce da corda na repisa da
 reunión. Desfago os nós, salvo un que me sirva como tope no cabo da corda,
-e podo retirar os fisureros sin problemas. 
+e podo retirar os fisureros sen problemas. 
 
 Para ascender, valoro que o dinamismo da corda vai facer que roce moito na
 repisa superior, polo que decido subir escalando de novo, acerando os pasos a
@@ -124,42 +126,42 @@ Grigri, inda debaixo do puño.
 
 Na primeira reunión, de novo, triangulo as anillas utilizando unha cinta
 de dyneema que consigo elevar chapando un novo ballestrinque na primeira chapa
-do segundo largo, á que chego a duras penas sin necesitar escalar. Non tiña
+do segundo longo, á que chego a duras penas sen necesitar escalar. Non tiña
 mosquetóns de seguro para esta reu, polo que utilicei un maillon en cada
 punto. 
 
-Comezo a escalar o segundo largo e afrontando un pequeno techo que queda á
+Comezo a escalar o segundo longo e afrontando un pequeno techo que queda á
 altura do meu peito estando na repisa de saída. É aquí onde un paso
 delicado me leva a esvarar co pé dereito e sufrindo unha pequena caída
 dunhos 20 cm que me rasca lixeiramente o Grigri, estreándoo oficialmente.
 Descendo, volvo erguerme, e con sumo cuidado supero ese paso de delicada
-adherencia, o máis complexo do largo. Houbera sido máis sinxelo saír á
+adherencia, o máis complexo do longo. Houbera sido máis sinxelo saír á
 esquerda da reu, onde a roca tiña máis irregularidades, mais antoxóusemse
-proba-lo paso complexo. O largo discurre por unha arista de roca cunha
+proba-lo paso complexo. A vía discorre por unha arista de roca cunha
 oquedade tras ela, con pasos entre bavaresa e adherencia. Chego á segunda reunión 
 e noto que teño moita holgura no sistema por tér caído corda cara atrás.
 Ténsoa retirando un metro de xogo e ato un dinámico nunha cinta, observando
 que a corda se nega a retroceder. 
 
-Observo o terceiro largo, cuxo comezo semella un paseo lixeiramente costa
+Observo o terceiro longo, cuxo comezo semella un paseo lixeiramente costa
 arriba, e conto as cintas que teño pensando en continuar sen unha reunión 
-intermedia. As cintas vanme xustas, pero valoro teño material para poder 
+intermedia. Vanme xustas, pero valoro teño material para poder 
 improvisar, polo que continuo camiñando ata chegar a unha sección vertical
-dunhos 3m na metade do largo. A seguinte chapa está na súa parte superior e
+dunhos 3m na metade do longo. A seguinte chapa está na súa parte superior e
 non lle chego, así que busco un emplazamiento para colocar un fisurero,
 temendo unha caída sobre a repisa e unha posterior rodada costa abaixo. A roca
 parece sólida pero sona oca, e coloco un fisurero que alomenos me protexa 
 \- ou me decelere durante \- a rodada. Supero a sección vertical e observo unha
 nova zona tumbada que avanzo. Dubido un momento ao verme moi exposto e doume
 conta dunha chapa uns metros máis atrás. Colócoa e continúo camiñando a gatas
-ata a terceira reunión sin apenas material, triangulando unha reu co cordino 
+ata a terceira reunión sen apenas material, triangulando unha reu co cordino 
 de 7mm e seus dous mosquetóns.
 
 De novo monto un mosquetón no punto central para atar a corda cun
 ballestrinque tanto nel coma nun dos puntos fixos, monto o Grigri e comezo a
 rapelar con el. Axiña chego á repisa vertical e, para evitar que a corda roce
 nela, exténdo o anclaxe inmediatamente superior coa cinta de 240cm dobrada, 
-quedando unha cinta exprés suspendida no aire. Sobre esta cinta exprés intento 
+quedando unha exprés suspendida no aire. Sobre ela, intento 
 facer un nó corredizo que bloquee no sentido do escalador, mais a postura non 
 me axuda e acabo desistindo e atando un ballestrinque. Continúo descendendo e 
 fago un novo punto fixo co mesmo método baixo a reunión que antes me saltei,
@@ -205,7 +207,7 @@ terceira reu. Por probar algo novo, monto o Reverso sobre unha cinta exprés da
 que retiro o mosquetón do lado corda e o chapo no lado chapa, chapando logo
 ambos ao menu anel ventral contrapeados, asegurándome de que o mosquetón lado 
 chapa non teña aristas afiadas primeiro. Utilizo este sistema como extensión
-para o mosquetón do Reverso, e ato un machard directo ao anel ventral.
+para o mosquetón do Reverso, e ato un Machard directo ao anel ventral.
 
 Co cuarto longo limpo e toda a miña parafernalia na terceira reu, baixo e paso
 as cordas mentras os outros escaladores se acercan. Quero ir ao meu ritmo,
@@ -213,19 +215,19 @@ pero pode que estorbe, así que pregúntolles se van pasar pola miña reu para
 saber canta présa darme. Pregúntolle ao asegurador, que lle pregunta ao
 escalador, que de novo me pregunta a mín que foi o que dixen que non
 escoitara. Ao segundo intento entendémonos e dícenme que non, que van pola vía
-do lado. Recollo as cordas con calma e penso cómo baixar sin ter que lanzalas,
+do lado. Recollo as cordas con calma e penso cómo baixar sen ter que lanzalas,
 para evitar que caian cerca do asegurador. Decido utilizar a funda da corda,
-aínda colgada do meu arnés para o mesmo propósito durante o rápel do cuarto
-longo. Meto unha metade da corda dentro, dóbroa, e sobre o prego poño a outra
-metade. Chapo a funda ao arnés e vexo que, ao non haber verticalidade, a corda
-exterior roza no chan. Sin gana de leria, manteño a corda erguida coa man
+aínda colgada do meu arnés para o mesmo propósito durante o último rápel. 
+Meto unha metade da corda dentro e dóbroa, logo poño a outra metade sobre
+o prego. Chapo a funda ao arnés e vexo que, ao non haber verticalidade, a corda
+exterior roza no chan. Sen gana de leria, manteño a corda erguida coa man
 esquerda mentres a dereita fai o traballo das dúas, facendo retroceder o 
 Machard e alimentando o Reverso á vez.
 
 ![image](https://github.com/user-attachments/assets/1a6b9fc9-661b-456a-865b-2e359b79ce0c)
 
 
-Na segunda reunión decido tirar as cordas, aínda colgado. Vexo que chegan
+Na segunda reunión decido tira-las cordas, aínda suspendido da anterior. Vexo que chegan
 xusto enriba da repisa onde está a primeira reu e opto por arriscarme, contando 
 con que a elasticidade da corda co meu peso me vaia deixar poñer os pés no chan.
 Chego con ambos extremos da corda atascados nos seus nós de seguridade no Machard. 
@@ -237,14 +239,14 @@ velocidade. Nada máis chegar tócoo e, como esperaba, queima. Retíroo axiña d
 corda e déixoo enfriar colgado do arnés. Para retirar a corda do longo, alónxome 
 da parede para minimizar a fricción na repisa, e volvo acercame cando a corda 
 ascendente está a piques de chegar arriba para evitar ir recollendo un regueiro 
-de 15m de corda de entre pedras mexadas por cabras. Dou un lixeiro tirón e a corda baixa e 
+de 15m de entre pedras mexadas por cabras. Dou un lixeiro tirón e a corda baixa e 
 deposítase ordenada sobre a terra un metro á esquerda da súa funda. Recollo
 todo o material e devólvoo á mochila. Poño as botas que esquecín poñer antes e
 os meus pulgares descansan aliviados os 20 minutos que me boto recollendo e
 descansando, para logo sufrir o resto da costa abaixo ata o aparcamento. 
 
 Chamo para avisar de que estou ben e quedo un rato disfrutando do campo, para
-disfrutar uns intres máis tarde de ruídos de moto e zumbidos de dron. Valoro
+disfrutar uns intres máis tarde de ruídos alleos de moto e zumbidos de dron. Valoro
 volver parar na Pasaxe, pero estou cansado e teño cousas que facer, así que
 marcho camiño Santiago contento de ter aproveitado tan ben o día.
 
